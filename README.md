@@ -1,2 +1,3 @@
 # hello-world
 primer repositorio (aprendiendo GitHub)
+Soy estudiante, interesado en  aprender ciberseguridad e inteligencia artificial/aprendizaje automático/ Lenguaje cognitivo...
